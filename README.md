@@ -1,5 +1,5 @@
 # Coderoad-React-Fundamentals-Tech-Talk
-To run the project:____
-npm install -g create-react-app__
-npm install__
-npm start__
+To run the project: <br />
+npm install -g create-react-app <br />
+npm install <br />
+npm start <br />
